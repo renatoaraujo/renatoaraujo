@@ -1,4 +1,4 @@
-# Hey! I am Renato :wave
+# Hey! I am Renato :wave:
 
 --- 
 For now just testing, but this will be upgraded over time :)
